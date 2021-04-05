@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload. Badar Ahmed Sheikh AND
           HAMZA AHMED SHEIK  badar ahmed sheikh 
-          ZZZZZZZZZZZZZZZZZZ
+          ZZZZZZZZZZZZZZZZZZ  <h1> hamza ahmed sheikh</h1>
         </p>
         <a
           className="App-link"
